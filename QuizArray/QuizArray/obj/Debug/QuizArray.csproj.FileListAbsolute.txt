@@ -1,0 +1,7 @@
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\QuizArray\QuizArray\bin\Debug\QuizArray.exe.config
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\QuizArray\QuizArray\bin\Debug\QuizArray.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\QuizArray\QuizArray\bin\Debug\QuizArray.pdb
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\QuizArray\QuizArray\obj\Debug\QuizArray.csproj.CoreCompileInputs.cache
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\QuizArray\QuizArray\obj\Debug\QuizArray.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\QuizArray\QuizArray\obj\Debug\QuizArray.pdb
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\QuizArray\QuizArray\obj\Debug\QuizArray.csprojAssemblyReference.cache

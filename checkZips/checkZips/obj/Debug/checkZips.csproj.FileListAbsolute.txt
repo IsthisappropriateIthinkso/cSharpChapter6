@@ -1,0 +1,6 @@
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\checkZips\checkZips\bin\Debug\checkZips.exe.config
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\checkZips\checkZips\bin\Debug\checkZips.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\checkZips\checkZips\bin\Debug\checkZips.pdb
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\checkZips\checkZips\obj\Debug\checkZips.csproj.CoreCompileInputs.cache
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\checkZips\checkZips\obj\Debug\checkZips.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\checkZips\checkZips\obj\Debug\checkZips.pdb
