@@ -1,0 +1,6 @@
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\Debugging\debugging 4\debugging 4\obj\Debug\debugging 4.csproj.CoreCompileInputs.cache
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\Debugging\debugging 4\debugging 4\bin\Debug\debugging 4.exe.config
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\Debugging\debugging 4\debugging 4\bin\Debug\debugging 4.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\Debugging\debugging 4\debugging 4\bin\Debug\debugging 4.pdb
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\Debugging\debugging 4\debugging 4\obj\Debug\debugging 4.exe
+C:\Users\Adam Gibson\Desktop\cSharpChapter 3\cSharpChapter6\Debugging\debugging 4\debugging 4\obj\Debug\debugging 4.pdb
